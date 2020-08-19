@@ -219,6 +219,7 @@ ____________________________________________________________________________
 //Hello, This is the code to use a 4x4 keypad matrix with and Arduino and show the result on an LCD screen
 //You should wire you keypad from 8to1 (keypad pins) to 9to2 Arduino digital pins
 //SurtrTech
+/*
 
 #include <Keypad.h> //The keypad and LCD i2c libraries
 #include <Wire.h>
@@ -499,22 +500,5 @@ void loop() {
       }
    }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 https://www.tutorialspoint.com/arduino/arduino_dc_motor.htm
+./
